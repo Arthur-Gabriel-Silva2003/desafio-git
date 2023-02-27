@@ -5,7 +5,7 @@ Repositório criado para realizar o desafio sobre conhecimentos em Git/GitHub no
 
 ## Links úteis
 
-- [Clique aqui para visualizar outros projetos](https://github.com/Arthur-Gabriel-Silva2003)
+- [Clique aqui para visualizar outros projetos](https://github.com/arthurgab03)
 
 - [Clique aqui para visualizar o meu LinkedIn](https://www.linkedin.com/in/arthur-gabriel2003/)
 
